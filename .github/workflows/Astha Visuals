@@ -1,0 +1,58 @@
+<section id="hero">
+<h1>Mio Studio</h1>
+<p>Creative Designs for Shops & Social Media</p>
+<p>I am a young designer creating aesthetic templates, banners, and digital designs for modern businesses.</p>
+</section>
+
+<section id="about">
+<h2>About Me</h2>
+<p>
+Hi! I'm the creator of Mio Studio. I design aesthetic templates, shop banners,
+and social media visuals. My goal is to help businesses look modern and attractive
+with simple and affordable design solutions.
+</p>
+</section>
+
+<section id="services">
+<h2>Services</h2>
+<ul>
+<li>Shop Banner Design</li>
+<li>Instagram Templates</li>
+<li>Promotional Posters</li>
+<li>AI Prompt Writing Experiments</li>
+</ul>
+</section>
+
+<section id="portfolio">
+<h2>My Sample Work</h2>
+
+<div class="portfolio-grid">
+
+<div class="work">
+<img src="images/sample1.jpg" alt="Shop Banner Design">
+<p>Modern Shop Banner</p>
+</div>
+
+<div class="work">
+<img src="images/sample2.jpg" alt="Instagram Template">
+<p>Instagram Post Template</p>
+</div>
+
+<div class="work">
+<img src="images/sample3.jpg" alt="Festival Poster">
+<p>Festival Poster Design</p>
+</div>
+
+</div>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: miostudio@email.com</p>
+<p>Instagram: @miostudio</p>
+<p>YouTube: Your Channel Link</p>
+</section>
+
+<footer>
+<p>© 2026 Mio Studio | Designed with creativity</p>
+</footer>
